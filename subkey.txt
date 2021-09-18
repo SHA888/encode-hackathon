@@ -1,0 +1,76 @@
+ALICE Keyword
+-------------
+SR25519 : subkey generate --scheme sr25519
+ED25519 : subkey inspect --scheme ed25519 "secret phrase"
+
+
+SR25519
+Secret phrase:       grab patrol mushroom shrimp tent mesh glow around category hold believe foil
+  Secret seed:       0x518e921581aaf62c396d0603491b6f595d28c04bf852d0cf1ca690ea0a84c525
+  Public key (hex):  0x229bf37f7df2b40d593471005d2b68e4a91feca0ccadb081fd62c6611481245a
+  Account ID:        0x229bf37f7df2b40d593471005d2b68e4a91feca0ccadb081fd62c6611481245a
+  Public key (SS58): 5Cr5p5D9F5nMh9CZZKHWW3jYxnRyTVTM33LFDmskLcmt2eCK
+  SS58 Address:      5Cr5p5D9F5nMh9CZZKHWW3jYxnRyTVTM33LFDmskLcmt2eCK
+
+ED25519
+Secret phrase:       grab patrol mushroom shrimp tent mesh glow around category hold believe foil
+  Secret seed:       0x518e921581aaf62c396d0603491b6f595d28c04bf852d0cf1ca690ea0a84c525
+  Public key (hex):  0x4198b475d922f31f6438bfb067bf10c9124d3ffd96e038c2f26ff2004e01282c
+  Account ID:        0x4198b475d922f31f6438bfb067bf10c9124d3ffd96e038c2f26ff2004e01282c
+  Public key (SS58): 5DYiLEo7Sz6Bh4HMifgHvEto2YEeyXq9CxsCaCHunKnx4wvv
+  SS58 Address:      5DYiLEo7Sz6Bh4HMifgHvEto2YEeyXq9CxsCaCHunKnx4wvv
+
+
+KEY PAIR
+
+Key                 Value
+Secret phase        grab patrol mushroom shrimp tent mesh glow around category hold believe foil
+Secret seed         0x518e921581aaf62c396d0603491b6f595d28c04bf852d0cf1ca690ea0a84c525
+
+SR25519
+Public Key          0x229bf37f7df2b40d593471005d2b68e4a91feca0ccadb081fd62c6611481245a
+SS58 Address        5Cr5p5D9F5nMh9CZZKHWW3jYxnRyTVTM33LFDmskLcmt2eCK
+
+ED25519
+Public Key          0x4198b475d922f31f6438bfb067bf10c9124d3ffd96e038c2f26ff2004e01282c
+SS58 Address        5DYiLEo7Sz6Bh4HMifgHvEto2YEeyXq9CxsCaCHunKnx4wvv
+
+----------------------------------------------------------------------------------------------------------
+
+BOB Keyword 
+-----------
+SR25519 : subkey generate --scheme sr25519
+ED25519 : subkey inspect --scheme ed25519 "secret phrase"
+
+
+SR25519
+Secret phrase:       faith traffic vast mirror pistol element engage excite motor rotate heart material
+  Secret seed:       0x955bcf5e74fddd11b2769f7482a68ca29e63c025c264755f4c11f4575cc34a95
+  Public key (hex):  0x58c545b2369efdf2c08ea07bcd071b1630ee349ddae7b27f23bc908189cb9606
+  Account ID:        0x58c545b2369efdf2c08ea07bcd071b1630ee349ddae7b27f23bc908189cb9606
+  Public key (SS58): 5E56fzcB3rjrNEqngHaasCQcSPRa3JSFGhnHY8UyYQxi3EUZ
+  SS58 Address:      5E56fzcB3rjrNEqngHaasCQcSPRa3JSFGhnHY8UyYQxi3EUZ
+
+ED25519
+Secret phrase:       faith traffic vast mirror pistol element engage excite motor rotate heart material
+  Secret seed:       0x955bcf5e74fddd11b2769f7482a68ca29e63c025c264755f4c11f4575cc34a95
+  Public key (hex):  0x241c7b90bcb17b99b5e0be183376197dda660f2e8fbe4f6183b81b9e058b9d4b
+  Account ID:        0x241c7b90bcb17b99b5e0be183376197dda660f2e8fbe4f6183b81b9e058b9d4b
+  Public key (SS58): 5Ct43PzAMuZjyddXuoz445wcZ6vNRfSR2ztuQYMFP7KoXuzR
+  SS58 Address:      5Ct43PzAMuZjyddXuoz445wcZ6vNRfSR2ztuQYMFP7KoXuzR
+
+
+
+KEY PAIR
+
+Key                 Value
+Secret phase        faith traffic vast mirror pistol element engage excite motor rotate heart material
+Secret seed         0x955bcf5e74fddd11b2769f7482a68ca29e63c025c264755f4c11f4575cc34a95
+
+SR25519
+Public Key          0x58c545b2369efdf2c08ea07bcd071b1630ee349ddae7b27f23bc908189cb9606
+SS58 Address        5E56fzcB3rjrNEqngHaasCQcSPRa3JSFGhnHY8UyYQxi3EUZ
+
+ED25519
+Public Key          0x241c7b90bcb17b99b5e0be183376197dda660f2e8fbe4f6183b81b9e058b9d4b
+SS58 Address        5Ct43PzAMuZjyddXuoz445wcZ6vNRfSR2ztuQYMFP7KoXuzR
